@@ -1,7 +1,6 @@
 node_modules/
 dist/
 target/
-.env
 *.js.map
 *.db
 *.db-shm
@@ -17,3 +16,4 @@ test-results/
 
 # Testnet contract farm output (deploy + gas + report artifacts)
 smart-contracts/testnet-farm-output/
+config.bat
